@@ -48,7 +48,7 @@ Developed as part of the **System Analysis and Design (968-250)** course at **Pr
 ---
 
 ### Team
-- **Uchukorn Wetchapan** – Project Leader  
+- **Auchukorn Veschapun** – Project Leader  
 - **Chanathip Kaewklin** – Developer  
 
 Instructor: **Aj. Manchanok Thongthep**  
